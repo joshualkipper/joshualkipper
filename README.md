@@ -5,8 +5,8 @@
 - Here are some projects developed in computational physics disciplines, as well as projects developed for research.
 
 <a href="https://github.com/joshualkipper/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=joshualkipper&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=joshualkipper&theme=radical&icons=true" />
 </a>
 <a href="https://github.com/joshualkipper/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualkipper&layout=compact&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualkipper&layout=compact&theme=radical" />
 </a>
